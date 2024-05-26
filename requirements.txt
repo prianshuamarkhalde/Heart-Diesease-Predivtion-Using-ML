@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 21 11:19:42 2022
+
+@author: Mahesh
+"""
+
+streamlit==1.14.0
+
+streamlit run "/Users/priyanshu/Desktop/Projects/mini project/multiple disease pred.py"
